@@ -1,7 +1,7 @@
 <h1 align="center">🌏 Hello World, I'm Adwaiy Singh 🧑‍💻</h1>
 
 <div align="center">
-    <img src="profile.gif" height="250"/>
+    <img src="profile.gif" height="250" width="250/>
 </div>
 
 <h3 align="center">📱 Coding Enthusiast | 🌐 Web Developer | 🤖 Data Science</h3>
@@ -35,7 +35,7 @@
     <li> 📚 I'm passionate about machine learning and love experimenting with models and datasets. <br>
   </div>
   <div>
-    <img height="200" src="eatSleepCode.gif" />
+     <img src="eatSleepCode.gif" style="height: 200px; width: auto;" />
   </div>
 </div>
 
@@ -118,14 +118,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adwaiy2912&locale=en&mode=weekly&theme=nightowl&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=adwaiy2912&locale=en&mode=weekly&theme=nightowl&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adwaiy2912&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adwaiy2912&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adwaiy2912&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adwaiy2912&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -137,7 +137,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="hacking.gif"  />
+  <img src="hacking.gif"  style="height: 250px; width: auto;"/>
 </div>
 
 ###
