@@ -1,8 +1,12 @@
 <h1 align="center">🌏 Hello World, I'm Adwaiy Singh 🧑‍💻</h1>
 
+###
+
 <div align="center">
-    <img src="profile.gif" height="250" width="250/>
+    <img src="profile.gif" height="250" width="250"/>
 </div>
+
+###
 
 <h3 align="center">📱 Coding Enthusiast | 🌐 Web Developer | 🤖 Data Science</h3>
 
@@ -137,7 +141,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="hacking.gif"  style="height: 250px; width: auto;"/>
+  <img src="hacking.gif" style="height: 250px; width: auto;" />
 </div>
 
 ###
