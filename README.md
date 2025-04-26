@@ -19,10 +19,10 @@
   <a href="mailto:adwaiy2913@gmail.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/adwaiy-singh//" target="_blank">
+  <a href="https://www.linkedin.com/in/adwaiy-singh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.facebook.com/adwaiy.singh//" target="_blank">
+  <a href="https://www.facebook.com/adwaiy.singh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
 </div>
@@ -31,18 +31,22 @@
 
 <br clear="both">
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <ul style="list-style-type: none; padding: 0; margin: 0;">
-      <li>🎓 I'm a Data Science Engineering student at Manipal Institute of Technology (MIT'26).<br><br></li>
-      <li>🛠️ I build full-stack web apps using React, Node.js, Express, and PostgreSQL.<br><br></li>
-      <li>🎯 I work on real-time object detection projects with deep learning and computer vision.<br><br></li>
-      <li>📚 I'm passionate about machine learning and love experimenting with models and datasets.<br><br></li>
-    </ul>
-  </div>
-  <div>
-    <img src="eatSleepCode.gif" style="width: 200px; height: auto;" />
-  </div>
+<div align="center">
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="width: 60%; vertical-align: top; border: none;">
+        <ul style="list-style-type: none; padding: 0; margin: 0;">
+          <li>🎓 I'm a Data Science Engineering student at Manipal Institute of Technology (MIT'26).<br><br></li>
+          <li>🛠️ I build full-stack web apps using React, Node.js, Express, and PostgreSQL.<br><br></li>
+          <li>🎯 I work on real-time object detection projects with deep learning and computer vision.<br><br></li>
+          <li>📚 I'm passionate about machine learning and love experimenting with models and datasets.<br><br></li>
+        </ul>
+      </td>
+      <td style="width: 40%; text-align: center; border: none;">
+        <img src="eatSleepCode.gif" style="width: 200px; height: auto;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
