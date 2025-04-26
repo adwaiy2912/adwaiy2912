@@ -33,13 +33,15 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    <li> 🎓 I'm a Data Science Engineering student at Manipal Institute of Technology (MIT'26). <br>
-    <li> 🛠️ I build full-stack web apps using React, Node.js, Express, and PostgreSQL. <br>
-    <li> 🎯 I work on real-time object detection projects with deep learning and computer vision. <br>
-    <li> 📚 I'm passionate about machine learning and love experimenting with models and datasets. <br>
+    <ul style="list-style-type: none; padding: 0; margin: 0;">
+      <li>🎓 I'm a Data Science Engineering student at Manipal Institute of Technology (MIT'26).<br><br></li>
+      <li>🛠️ I build full-stack web apps using React, Node.js, Express, and PostgreSQL.<br><br></li>
+      <li>🎯 I work on real-time object detection projects with deep learning and computer vision.<br><br></li>
+      <li>📚 I'm passionate about machine learning and love experimenting with models and datasets.<br><br></li>
+    </ul>
   </div>
   <div>
-     <img src="eatSleepCode.gif" style="height: 200px; width: auto;" />
+    <img src="eatSleepCode.gif" style="width: 200px; height: auto;" />
   </div>
 </div>
 
@@ -141,7 +143,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="hacking.gif" style="height: 250px; width: auto;" />
+    <img src="hacking.gif" style="width: 500px; height: auto;" />
 </div>
 
 ###
