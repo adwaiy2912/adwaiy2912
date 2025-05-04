@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">📱 Coding Enthusiast | 🌐 Web Developer | 🤖 Data Science</h3>
+<h3 align="center">💻 Coding Enthusiast | 🌐 Web Developer | 🤖 Data Science</h3>
 
 ###
 
