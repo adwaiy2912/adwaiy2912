@@ -152,6 +152,6 @@
 
 ###
 
-<h2 align="center">💻 Happy Hacking!</h2>
+<h2 align="center">😎 Happy Hacking!</h2>
 
 ###
