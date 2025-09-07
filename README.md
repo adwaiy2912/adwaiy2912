@@ -60,62 +60,45 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+  <div>
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="50" hspace="8" />
+  </div>
+  
+  <br>
+  
+  <div>
+    <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=sequelize&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" hspace="8" />
+  </div>
+  
+  <br>
+  
+  <div>
+    <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="50" hspace="8" />
+  </div>
 </div>
+
 
 ###
 
