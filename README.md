@@ -65,36 +65,42 @@
     <img src="https://skillicons.dev/icons?i=html&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=css&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=js&theme=dark" height="50" hspace="8" />
-    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=react&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=express&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=regex&theme=dark" height="50" hspace="8" />
   </div>
   
   <br>
   
   <div>
+    <img src="https://skillicons.dev/icons?i=c&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=sequelize&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="50" hspace="8" />
-    <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=dynamodb&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=git&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" hspace="8" />
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" hspace="8" />
   </div>
   
   <br>
   
   <div>
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=java&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="50" hspace="8" />
-    <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=lua&theme=dark" height="50" hspace="8" />
+    <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="50" hspace="8" />
     <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="50" hspace="8" />
   </div>
 </div>
